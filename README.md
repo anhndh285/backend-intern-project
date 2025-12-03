@@ -7,9 +7,9 @@ This project is built to practice backend skills for internship preparation.
 
 ## Technologies Used
 - Java 17
-- Spring Boot 3.x
+- Spring Boot
 - Spring Data JPA / Hibernate
-- SQL Server (or MySQL)
+- SQL Server
 - Maven
 - Lombok
 - Postman
